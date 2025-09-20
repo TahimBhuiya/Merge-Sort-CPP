@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// Function to merge two sorted subarrays into one sorted array
 void merge(int arr[], int left, int mid, int right) {
-    int n1 = mid - left + 1; 
-    int n2 = right - mid;
+    // Find the sizes of two subarrays to merge
+    int n1 = mid - left + 1; // size of left subarray
+    int n2 = right - mid;    // size of right subarray
 }
