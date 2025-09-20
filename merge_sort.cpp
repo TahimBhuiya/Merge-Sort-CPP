@@ -8,4 +8,5 @@ void merge(int arr[], int left, int mid, int right) {
     int n2 = right - mid;    // size of right subarray
 
     int *L = new int[n1];
+    int *R = new int[n2];
 }
