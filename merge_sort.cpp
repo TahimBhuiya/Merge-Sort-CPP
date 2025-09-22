@@ -23,4 +23,5 @@ void merge(int arr[], int left, int mid, int right) {
     int i = 0; // Initial index of first subarray
 
     int j = 0; // Initial index of second subarray
+    int k = left; 
 }
