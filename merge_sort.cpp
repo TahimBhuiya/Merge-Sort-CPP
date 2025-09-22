@@ -22,5 +22,5 @@ void merge(int arr[], int left, int mid, int right) {
     // Merge the temporary arrays back into arr[left..right]
     int i = 0; // Initial index of first subarray
 
-    int j = 0; 
+    int j = 0; // Initial index of second subarray
 }
