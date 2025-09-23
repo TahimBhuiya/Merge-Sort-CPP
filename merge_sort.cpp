@@ -37,3 +37,5 @@ void merge(int arr[], int left, int mid, int right) {
         }
         k++;
 }
+
+while (i < n1) {}
