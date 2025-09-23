@@ -38,4 +38,6 @@ void merge(int arr[], int left, int mid, int right) {
         k++;
 }
 
-while (i < n1) {}
+while (i < n1) {
+    arr[k] = L[i];
+}
