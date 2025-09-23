@@ -32,5 +32,6 @@ void merge(int arr[], int left, int mid, int right) {
             i++;
         }
         else {
+            arr[k] = R[j];
         }
 }
