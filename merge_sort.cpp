@@ -49,3 +49,5 @@ while (i < n1) {
     delete[] L;
     delete[] R;
 }
+
+void mergeSort(int arr[], int left, int right) {
