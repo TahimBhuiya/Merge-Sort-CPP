@@ -47,3 +47,6 @@ while (i < n1) {
 
     // Free the temporary arrays
     delete[] L;
+
+    delete[] R;
+}
