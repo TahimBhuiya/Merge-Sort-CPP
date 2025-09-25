@@ -50,4 +50,5 @@ while (i < n1) {
     delete[] R;
 }
 
+// Function to implement Merge Sort recursively
 void mergeSort(int arr[], int left, int right) {
