@@ -43,3 +43,6 @@ while (i < n1) {
     i++;
     k++;
 }
+
+
+    // Free the temporary arrays
