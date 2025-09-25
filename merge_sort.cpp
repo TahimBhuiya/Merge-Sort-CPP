@@ -53,4 +53,5 @@ while (i < n1) {
 // Function to implement Merge Sort recursively
 void mergeSort(int arr[], int left, int right) {
     if (left < right) {
+        int mid = left + (right - left) / 2;}
 }
