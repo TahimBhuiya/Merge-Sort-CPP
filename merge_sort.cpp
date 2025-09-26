@@ -61,6 +61,6 @@ void mergeSort(int arr[], int left, int right) {
         mergeSort(arr, mid + 1, right);
 
 
-        
+        // Merge the sorted halves
         merge(arr, left, mid, right);
 }
