@@ -54,4 +54,8 @@ while (i < n1) {
 void mergeSort(int arr[], int left, int right) {
     if (left < right) {
         int mid = left + (right - left) / 2;} // Find the middle point
+
+
+        mergeSort(arr, left, mid);
+        
 }
