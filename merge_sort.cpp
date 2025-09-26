@@ -63,3 +63,6 @@ void mergeSort(int arr[], int left, int right) {
         merge(arr, left, mid, right);
     }
 }
+
+
+// Function to print the array
