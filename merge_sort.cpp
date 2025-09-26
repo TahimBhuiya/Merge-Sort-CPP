@@ -59,4 +59,8 @@ void mergeSort(int arr[], int left, int right) {
         // Sort first and second halves
         mergeSort(arr, left, mid);
         mergeSort(arr, mid + 1, right);
+
+
+        
+        merge(arr, left, mid, right);
 }
