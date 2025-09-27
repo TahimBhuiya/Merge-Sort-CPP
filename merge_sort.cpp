@@ -84,5 +84,6 @@ int main() {
     mergeSort(arr, 0, n - 1);
 
     cout << "Sorted array: ";
+    printArray(arr, n);
 
 }
