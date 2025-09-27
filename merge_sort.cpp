@@ -67,3 +67,4 @@ void mergeSort(int arr[], int left, int right) {
 
 // Function to print the array
 void printArray(int arr[], int n) {
+    for (int i = 0; i < n; i++)
