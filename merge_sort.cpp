@@ -86,4 +86,6 @@ int main() {
     cout << "Sorted array: ";
     printArray(arr, n);
 
+    return 0; 
+
 }
