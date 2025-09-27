@@ -79,6 +79,8 @@ int main() {
 
     cout << "Original array: ";
     printArray(arr, n);
+
+    // Perform merge sort 
     mergeSort(arr, 0, n - 1);
 
 }
