@@ -77,5 +77,7 @@ int main() {
     int arr[] = {38, 27, 43, 3, 9, 82, 10};
     int n = sizeof(arr) / sizeof(arr[0]);
 
+    cout << "Original array: ";
+
 
 }
