@@ -5,3 +5,5 @@
 ## 🔧 Features
 
 ## 📋 Example Run
+
+## ⚙ How It Works
