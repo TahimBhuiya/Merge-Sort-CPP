@@ -7,3 +7,5 @@
 ## 📋 Example Run
 
 ## ⚙ How It Works
+
+## 🛠 How to Run
