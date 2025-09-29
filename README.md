@@ -14,6 +14,8 @@ It displays the array before and after sorting to help visualize how merge sort 
 
 ## 🔧 Features
 
+- **Divide and Conquer**: Recursively splits and merges arrays for efficient sorting.
+
 ## 📋 Example Run
 
 ## ⚙ How It Works
