@@ -16,7 +16,9 @@ It displays the array before and after sorting to help visualize how merge sort 
 
 - **Divide and Conquer**: Recursively splits and merges arrays for efficient sorting.
 
-* **Stable Sorting**: Preserves the order of equal elements.
+- **Stable Sorting**: Preserves the order of equal elements.
+
+- **Array Input**: Works with any array of integers defined in the code.
 
 ## 📋 Example Run
 
