@@ -4,6 +4,8 @@
 
 This C++ program demonstrates the **Merge Sort** algorithm, an efficient, stable, divide-and-conquer sorting method:
 
+1. Divides the array into two halves recursively.
+
 ## 🔧 Features
 
 ## 📋 Example Run
