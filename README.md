@@ -6,6 +6,7 @@ This C++ program demonstrates the **Merge Sort** algorithm, an efficient, stable
 
 1. Divides the array into two halves recursively.
 2. Sorts each half individually.
+3. Merges the two sorted halves into a single sorted array.
 
 ## 🔧 Features
 
