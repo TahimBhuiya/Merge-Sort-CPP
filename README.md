@@ -8,6 +8,10 @@ This C++ program demonstrates the **Merge Sort** algorithm, an efficient, stable
 2. Sorts each half individually.
 3. Merges the two sorted halves into a single sorted array.
 
+It displays the array before and after sorting to help visualize how merge sort organizes the elements.
+
+---
+
 ## 🔧 Features
 
 ## 📋 Example Run
