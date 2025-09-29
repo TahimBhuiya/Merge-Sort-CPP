@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+This C++ program demonstrates the **Merge Sort** algorithm, an efficient, stable, divide-and-conquer sorting method:
+
 ## 🔧 Features
 
 ## 📋 Example Run
