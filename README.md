@@ -27,6 +27,7 @@ It displays the array before and after sorting to help visualize how merge sort 
 ## 📋 Example Run
 
 **Input:**
+Original array:
 
 ## ⚙ How It Works
 
