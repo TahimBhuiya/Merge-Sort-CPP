@@ -31,6 +31,7 @@ Original array:
 38 27 43 3 9 82 10
 
 **Output:**
+Sorted array:
 
 ## ⚙ How It Works
 
