@@ -32,6 +32,7 @@ Original array:
 
 **Output:**
 Sorted array:
+3 9 10 27 38 43 82
 
 ## ⚙ How It Works
 
