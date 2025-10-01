@@ -42,6 +42,7 @@ Sorted array:
    - Recursively sort both halves of the array.
 3. **Merge Halves**
    - Merge the sorted halves into one sorted array by comparing elements.
+4. **Repeat**
 
 ## 🛠 How to Run
 
