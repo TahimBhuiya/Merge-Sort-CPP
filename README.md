@@ -40,6 +40,7 @@ Sorted array:
    - Recursively split the array into two halves until each sub-array has one element.
 2. **Sort Each Half**
    - Recursively sort both halves of the array.
+3. **Merge Halves**
 
 ## 🛠 How to Run
 
