@@ -30,6 +30,8 @@ It displays the array before and after sorting to help visualize how merge sort 
 Original array:
 38 27 43 3 9 82 10
 
+**Output:**
+
 ## ⚙ How It Works
 
 ## 🛠 How to Run
