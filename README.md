@@ -26,6 +26,8 @@ It displays the array before and after sorting to help visualize how merge sort 
 
 ## 📋 Example Run
 
+**Input:**
+
 ## ⚙ How It Works
 
 ## 🛠 How to Run
