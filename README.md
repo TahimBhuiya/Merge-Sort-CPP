@@ -37,6 +37,7 @@ Sorted array:
 ## ⚙ How It Works
 
 1. **Divide the Array**
+   - Recursively split the array into two halves until each sub-array has one element.
 
 ## 🛠 How to Run
 
