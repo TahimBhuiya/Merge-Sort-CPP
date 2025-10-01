@@ -36,6 +36,8 @@ Sorted array:
 
 ## ⚙ How It Works
 
+1. **Divide the Array**
+
 ## 🛠 How to Run
 
 👨‍💻 Created by **Tahim Bhuiya**
