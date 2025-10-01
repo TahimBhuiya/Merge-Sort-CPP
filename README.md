@@ -38,6 +38,7 @@ Sorted array:
 
 1. **Divide the Array**
    - Recursively split the array into two halves until each sub-array has one element.
+2. **Sort Each Half**
 
 ## 🛠 How to Run
 
