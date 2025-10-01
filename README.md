@@ -43,6 +43,9 @@ Sorted array:
 3. **Merge Halves**
    - Merge the sorted halves into one sorted array by comparing elements.
 4. **Repeat**
+   - Continue until the whole array is merged and sorted.
+
+---
 
 ## 🛠 How to Run
 
