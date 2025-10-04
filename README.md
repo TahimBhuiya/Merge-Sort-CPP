@@ -53,4 +53,5 @@ Sorted array:
 
 ### 1️⃣ Using a local C++ compiler
 
-👨‍💻 Created by **Tahim Bhuiya**
+- Save the code as `merge_sort.cpp` or any name you prefer.
+  👨‍💻 Created by **Tahim Bhuiya**
