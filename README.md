@@ -15,11 +15,8 @@ It displays the array before and after sorting to help visualize how merge sort 
 ## 🔧 Features
 
 - **Divide and Conquer**: Recursively splits and merges arrays for efficient sorting.
-
 - **Stable Sorting**: Preserves the order of equal elements.
-
 - **Array Input**: Works with any array of integers defined in the code.
-
 - **Fully Commented Code**: Easy to understand and modify.
 
 ---
@@ -34,15 +31,24 @@ Original array:
 Sorted array:
 3 9 10 27 38 43 82
 
+---
+
 ## ⚙ How It Works
 
 1. **Divide the Array**
+
    - Recursively split the array into two halves until each sub-array has one element.
+
 2. **Sort Each Half**
+
    - Recursively sort both halves of the array.
+
 3. **Merge Halves**
+
    - Merge the sorted halves into one sorted array by comparing elements.
+
 4. **Repeat**
+
    - Continue until the whole array is merged and sorted.
 
 ---
@@ -54,23 +60,19 @@ Sorted array:
 ### 1️⃣ Using a local C++ compiler
 
 - Save the code as `merge_sort.cpp` or any name you prefer.
-
-* Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
+- Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
 g++ merge_sort.cpp -o merge_sort
 ./merge_sort
 ```
 
-- Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
-
-* Paste the code
-* Run it directly in your browser.
-
 ### 2️⃣ Using an online C++ compiler
 
 - Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
+- Paste the code
+- Run it directly in your browser.
 
-* Paste the code
-* Run it directly in your browser.
-  👨‍💻 Created by **Tahim Bhuiya**
+---
+
+👨‍💻 Created by **Tahim Bhuiya**
