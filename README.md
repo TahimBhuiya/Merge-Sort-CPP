@@ -62,6 +62,8 @@ g++ merge_sort.cpp -o merge_sort
 ./merge_sort
 ```
 
+- Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
+
 ### 2️⃣ Using an online C++ compiler
 
 👨‍💻 Created by **Tahim Bhuiya**
