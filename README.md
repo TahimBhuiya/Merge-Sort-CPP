@@ -58,5 +58,6 @@ Sorted array:
 * Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
+g++ merge_sort.cpp -o merge_sort
   👨‍💻 Created by **Tahim Bhuiya**
 ```
