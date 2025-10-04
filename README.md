@@ -59,5 +59,7 @@ Sorted array:
 
 ```bash
 g++ merge_sort.cpp -o merge_sort
-  👨‍💻 Created by **Tahim Bhuiya**
+
 ```
+
+👨‍💻 Created by **Tahim Bhuiya**
