@@ -62,4 +62,6 @@ g++ merge_sort.cpp -o merge_sort
 ./merge_sort
 ```
 
+### 2️⃣ Using an online C++ compiler
+
 👨‍💻 Created by **Tahim Bhuiya**
